@@ -1,2 +1,2 @@
 # cool-finance
-Financial statistics and models in R for things I find interesting
+This is for Data Projects that i find interesting to explore!
